@@ -1,0 +1,2 @@
+// Task: Ternary
+// See README
